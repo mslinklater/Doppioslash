@@ -52,7 +52,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Test.cs" />
+     <None Include="Assets\Shaders\SpecularShaderForwardAdd.shader" />
      <None Include="Assets\Shaders\RedShader.shader" />
+     <None Include="Assets\Shaders\SurfaceShader.shader" />
+     <None Include="Assets\Shaders\RasterizerTestShader.shader" />
+     <None Include="Assets\Shaders\DiffuseShader.shader" />
+     <None Include="Assets\Shaders\MonochromeShader.shader" />
+     <None Include="Assets\Shaders\SpecularShader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.2.5f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
